@@ -1,0 +1,6 @@
+.section {
+    padding: 20px 30px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

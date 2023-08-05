@@ -1,0 +1,12 @@
+.statItem {
+  font-weight: bold;
+}
+
+.good {
+    color:darkgreen;
+}
+
+.bad {
+    color: darkred;
+}
+
