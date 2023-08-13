@@ -45,7 +45,7 @@ class App extends Component {
           onLeaveFeedback={this.onLeaveFeedback} />
       </Section><Section title="Please, leave your feedback two">
           
-          return total ? (
+    return total ? (
     <Statistics
             good={good}
             neutral={neutral}
